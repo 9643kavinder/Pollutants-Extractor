@@ -25,7 +25,7 @@ SECRET_KEY = '+0@qe-wuot^5a&_napd(pdxnk-u)!0&&z#6wzzy6pjkvko5!&7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'https://pollutant-tracker.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'pollutant-tracker.herokuapp.com']
 
 
 # Application definition
