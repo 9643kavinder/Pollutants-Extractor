@@ -3,7 +3,8 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from bs4 import BeautifulSoup
 import requests
-import json
+
+# Pollutant readings are getting scrap with the beautiful soup library
 
 
 @api_view(['GET'])
